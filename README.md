@@ -535,7 +535,7 @@ docker-compose down
 ```
 # producer_kafka_sources
 
-
+------------------------------------------End of this Git repos Readme--------------------------------------------------------
 
 # JDBC PostgreSQL sink connector
 https://github.com/panarv/kafka-docker-playground/tree/master/connect/connect-jdbc-postgresql-sink
