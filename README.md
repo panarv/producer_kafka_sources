@@ -1,4 +1,4 @@
-# Debezium Unwrap SMT Demo
+# Debezium SMT Demo
 
 This setup is going to demonstrate how to receive events from MySQL database and stream them down to a PostgreSQL database and/or an Elasticsearch server using the [Debezium Event Flattening SMT](http://debezium.io/docs/configuration/event-flattening/).
 
